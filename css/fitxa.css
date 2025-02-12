@@ -1,0 +1,235 @@
+body {	margin: 0 auto; text-align: center;
+	font-family: helvetica; font-size: 10.8px;color : #C9C9C9;background: #181818; padding:30px 20px 20px 20px;}
+A {  CURSOR: default;  }
+a:link {color: #666666; text-decoration : none;}
+a:visited {color: #363636; text-decoration : none;}
+a:hover {color: #FFFFFF; text-decoration : none;CURSOR: default;}
+a:focus{
+	outline-style: solid; outline-color: #63819c; outline-width: 1px;
+}
+#cont {padding: 18px; font-weight: normal; width: 45%; border: 1px dashed #333; margin: 18 auto; margin-top: 6px; color: #999;
+	text-align: left; vertical-align: text-bottom; border-radius: 3px; display: table; position: relative; background-color: #121212;
+}
+#logo{
+	 margin-bottom: 0px; margin-top: -18px; text-align: left; font-size: 10.8pt; font-weight: bold; color: #63819c; vertical-align: text-top;
+}
+#logotext{
+	 text-align: left;  color: #454545;  display: inline-table; font: bold 2.1em/1.8em "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;margin-top: -9.9pt;vertical-align: top;
+}
+#logotext a:hover{
+	color: #454545;
+}
+#logotext a:hover{
+	color: #CCC;
+}
+#sublogo{
+	 text-align: left;  color: #666;  display: inline-table; font: normal 0.36em/0.18em  Helvetica, Arial, Geneva, sans-serif;margin-top: -8.1pt; margin-left: 45px; display: inline-table;
+	 position: absolute;
+}
+#sublogoh{
+	 text-align: left;  color: #c39645;  display: inline-table; font: bold 0.45em/0.18em  Helvetica, Arial, Geneva, sans-serif;margin-top: -8.1pt; margin-left: -30px;  font-variant: small-caps; position: absolute;  margin-top: -12px; display: none;
+}
+.titol{
+	font-size: 18pt; font-weight: bold; color: #CCC;
+}
+.titolori{
+	font-size: 12px; font-weight: bold; color: #c39645;	padding-bottom: 19px;
+}
+.titolor{
+	font-size: 12px; font-weight: bold; color: #c39645;	
+}
+
+#actors{
+	font-size: 12px; font-weight: bold; color: #c39645;	
+}
+#actors a{
+color: #c39645; cursor: pointer;
+}
+#actors a:hover{
+color: #63819c;
+}
+
+.titolblau{
+	font-size: 12px; font-weight: bold; color: #63819c;	
+}
+.titolcur{
+	font-size: 8.1pt; font-weight: normal; font-style: italic; color: #999999;	
+}
+.cat{
+	font-size: 8.1pt; font-weight: bold; color: #818181;	
+}
+.data{
+	font-size: 12px; font-weight: normal; color: #999999;	
+}
+#lini{
+	border-bottom: 1px solid #333;
+	padding-bottom: 9px; margin-top: -6px;
+}
+#linarx{
+	border-top: 1px solid #333;
+	padding-top: 6px; margin-top: 6px;
+	color: #63819c;
+	font-weight: bold;
+}
+#sinopsi{
+	font-size: 10.8pt;
+	padding: 9px;
+	padding-bottom: 6px;
+	color: #CCC;
+}
+#obs{
+	font-size: 10.8pt;
+	padding: 9px;
+	margin-top: -6px;
+	color: #CCC;
+}
+#legend{
+font-size: 12pt;
+font-weight: bold;
+	font-variant: small-caps;
+	display: table-caption;
+	color: #63819c;
+}
+#edit{
+	float: right;
+	margin-top: -9px;
+	margin-right: -9px;
+}
+#edit a{
+	font-family: helvetica;
+	font-variant: small-caps;
+	color: #63819c;
+}
+#edit a:visited{
+color: #63819c;
+}
+#edit a:hover{
+color: #FFF;
+}
+#val{
+font-size: 9px;
+font-weight: bold;
+	display: inline-table;
+	margin-top: 9px;
+	color: #63819c;
+	vertical-align: text-bottom;
+}
+
+#stock{
+display: inline-table;
+color: #CCC;
+font-weight: normal;
+ margin-top: 9px; text-align: left;
+}
+#img{
+	float: right; padding: 3px; padding-top: 0px; margin-top: -6px; font-size: 9px; color: #999; font-weight: bold;
+}
+#imgsum{
+	float: right; padding: 3px; padding-top: 0px; margin-top: -50px; font-size: 9px; color: #999; font-weight: bold;
+}
+#petit{
+	color: #63819c; vertical-align: text-top; font-size: 9.3px;
+}
+#petittronja{
+	color: #c39645; vertical-align: text-top; font-size: 9.3px; font-weight: bold;
+}
+#par{
+	color: #c39645; vertical-align: top;
+}
+#par2{
+	color: #63819c;
+}
+#coma{
+	color: #999; vertical-align: text-top; font-size: 12px; font-weight: bold;
+}
+#punt{
+	color: #c39645; vertical-align: text-top; font-size: 12px; font-weight: bold;
+}
+#pos {
+	float: left;
+	font-size: 9pt;
+	font-weight: bold;
+	margin-top: -81pt;
+	margin-left: 120pt;
+	color: #CCCCCC;
+}
+#acoor{
+	outline-style: none;
+	cursor: e-resize;
+}
+#acoor a{
+	cursor: e-resize;
+}
+#acoor a:hover {
+cursor: e-resize;
+}
+.clear { clear: both; color:#63819c;}
+.clear a{
+	color: #63819c;
+	font-family: helvetica;
+	font-variant: small-caps;
+	font-weight: bold;
+	font-size: 12pt;
+}
+.clear a:hover{
+	color: #CCC;
+}
+#full {
+		margin: 180px auto;
+		margin-top: -3px;
+		text-align: center;
+		display: table;
+		text-align: center; vertical-align: middle;
+		}
+#fullpos {
+float: right;
+font-size: 10.8pt;
+color: #666666;
+font-weight: bold;
+text-align: right;
+padding-top: 9px;
+}
+#protagonista{
+	font-size: 27pt; font-weight: bold; color: #999; margin-top: -9 ;
+}
+#subti{
+	font-size: 12px; font-weight: normal; color: #63819c;	
+}
+#sumari{
+	font-size: 12px; font-weight: bold; color: #c39645;	text-align: left; display: inline-table;
+}
+#sumari a{
+	color: #63819c; font-size: 12pt;
+}
+#sumari a:hover{
+	color: #DDD;
+}
+#sumaria{
+	font-size: 12px; font-weight: bold; color: #c39645;	display: inline-table; width: 36px; text-align: center;
+}	
+#valium{
+	color: #c39645;  padding-bottom: 0px; font-weight: bold; position: static; display: inline; margin-top: -6.3px; margin-right: 9px;
+	text-align: right; float: right;
+}
+#valiumfix{
+	color: #c39645;  padding-bottom: 0px; font-weight: bold; position: static; display: inline; margin-top: -6.3px; margin-right: 9px;
+}
+#titolori{
+	font-size: 10.8px; font-weight: normal; color: #999;	padding-bottom: 9px; text-align: left; display: inline;
+}
+
+div.copyright {
+	text-align:center;
+	color: #63819c;
+	font: bold 10.8px/1.8 helvetica, arial, sans-serif;
+}
+
+a.copyright {
+	text-decoration:none;
+	color:#666666;
+	font: normal 10.8px/1.8 helvetica, arial, sans-serif;
+}
+
+a.copyright:hover{
+	text-decoration:underline;
+}	
